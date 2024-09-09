@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Challenging problems**
 
-- 📫 How to reach me **mohiteu15@gmail.com**
+- 📫 How to reach me **mohit15eu@gmail.com**
 
 - ⚡ Fun fact **I think i am mysterious kind of person.**
 

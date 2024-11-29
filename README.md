@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mohit15eu@gmail.com**
 
-- ⚡ Fun fact **I think i am mysterious kind of person.**
+- ⚡ Fun fact **while(1).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

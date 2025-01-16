@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-kumar" /> </p>
 
-- 🔭 I’m currently working on the fully functional E-commerce website **E-commerce website(Electronics)**
+- 🔭 I’m currently working on the fully functional **Email tracker app**
 
 - 🌱 I’m currently learning **MERN,MEAN**
 
@@ -21,7 +21,10 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mohit-kumar12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit kumar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mohit kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohit kumar" height="30" width="40" /></a>
-<a href="https://leetcode.com/Mohit-kumar123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohit kumar" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mohit_8800" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmn5XbAfI-zooZ0V1R7L1mduFMIjJUgEhvkA&s" alt="mohit kumar" height="30" width="40" /></a>
+
+
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

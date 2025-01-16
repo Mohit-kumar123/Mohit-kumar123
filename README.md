@@ -23,6 +23,9 @@
 <a href="https://stackoverflow.com/users/mohit kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohit kumar" height="30" width="40" /></a>
 <a href="https://leetcode.com/Mohit-kumar123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohit kumar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mohit_8800" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmn5XbAfI-zooZ0V1R7L1mduFMIjJUgEhvkA&s" alt="mohit kumar" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mk0733922" target="blank"><img align="center" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062020/codeforces_logo.png?Qlx1_zCw.Q4T7PHPosbkLyNiBJQWX7GD&itok=6wPhjh1X" alt="mohit kumar" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/mohitkumar9989/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="mohit kumar" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/mohitkum" target="blank"><img align="center" src="https://files.codingninjas.in/ps-explore-home-address-11258.svg" alt="mohit kumar" height="30" width="40" /></a>
 
 
   

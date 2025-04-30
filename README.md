@@ -1,41 +1,104 @@
-![logo](https://github.com/Mohit-kumar123/Mohit-kumar123/blob/main/IMG.png)
-<h1 align="center">Namaste 🙏🏽, I'm Mohit Kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+# <div align="center">![Mohit Kumar](https://github.com/Mohit-kumar123/Mohit-kumar123/blob/main/IMG.png)</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-kumar" /> </p>
-
-- 🔭 I’m currently working on the fully functional **Email tracker app**
-
-- 🌱 I’m currently learning **MERN,MEAN**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Mohit-kumar123](https://github.com/Mohit-kumar123)
-
-- 💬 Ask me about **Challenging problems**
-
-- 📫 How to reach me **mohit15eu@gmail.com**
-
-- ⚡ Fun fact **while(1).**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohit-kumar12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit kumar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mohit kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohit kumar" height="30" width="40" /></a>
-<a href="https://leetcode.com/Mohit-kumar123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohit kumar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mohit_8800" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmn5XbAfI-zooZ0V1R7L1mduFMIjJUgEhvkA&s" alt="mohit kumar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mk0733922" target="blank"><img align="center" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062020/codeforces_logo.png?Qlx1_zCw.Q4T7PHPosbkLyNiBJQWX7GD&itok=6wPhjh1X" alt="mohit kumar" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/mohitkumar9989/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="mohit kumar" height="30" width="40" /></a>
-<a href="https://www.naukri.com/code360/profile/mohitkum" target="blank"><img align="center" src="https://files.codingninjas.in/ps-explore-home-address-11258.svg" alt="mohit kumar" height="30" width="40" /></a>
-
-
+<div align="center">
+  <h1>Namaste 🙏🏽, I'm Mohit Kumar</h1>
+  <h3>Passionate Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
   
-</p>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kumar12/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Mohit-kumar123/)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mohit_8800)
+  [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mk0733922)
+  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/mohitkumar9989/)
+  
+  <img src="https://komarev.com/ghpvc/?username=Mohit-kumar123&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/express-js.png" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-kumar&show_icons=true&locale=en&layout=compact" alt="mohit-kumar" /></p>
+## 💫 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit-kumar&show_icons=true&locale=en" alt="mohit-kumar" /></p>
+- 🔭 Currently building a fully functional **Email Tracker App**
+- 🌱 Expanding my skills in **MERN & MEAN Stacks**
+- 💻 Check out my [**Full Stack Realtime Chat App**](https://mern-hack-chat.onrender.com)
+- 👨‍💻 Browse all my projects at [github.com/Mohit-kumar123](https://github.com/Mohit-kumar123)
+- 📧 Reach me at **mohit15eu@gmail.com**
+- 💬 Ask me about **challenging problems** and **full-stack development**
+- ⚡ Fun fact: **while(1).** - I never stop learning and coding!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-kumar&" alt="mohit-kumar" /></p>
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-kumar123&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-kumar123&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-kumar123&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🌟 Featured Projects
+
+### [Full Stack Realtime Chat App](https://github.com/Mohit-kumar123/mern-real-time-chat-app)
+- Built with MERN stack + Socket.io
+- Features: Real-time messaging, user authentication, online status
+- [Live Demo](https://mern-hack-chat.onrender.com)
+
+### [Email Tracker App](https://github.com/Mohit-kumar123/email-tracker) 
+- Currently in development
+- Track email opens, clicks, and engagement metrics
+
+### [Explore More Projects →](https://github.com/Mohit-kumar123?tab=repositories)
+
+## 🏆 Competitive Programming
+
+<div align="center">
+  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Mohit--kumar123-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Mohit-kumar123/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-mohit__8800-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mohit_8800)
+[![CodeForces](https://img.shields.io/badge/Codeforces-mk0733922-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mk0733922)
+[![GeeksForGeeks](https://img.shields.io/badge/GFG-mohitkumar9989-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/mohitkumar9989/)
+  
+</div>
+
+---
+
+<div align="center">
+  <h3>💬 Let's connect and collaborate!</h3>
+  <p>Got a challenging problem or an exciting project? Let's solve it together!</p>
+  <p>📧 <a href="mailto:mohit15eu@gmail.com">mohit15eu@gmail.com</a></p>
+</div>

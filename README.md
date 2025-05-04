@@ -18,7 +18,7 @@
 ## 💫 About Me
 
 - 🔭 Currently building a fully functional **Email Tracker App**
-- 🌱 Expanding my skills in **MERN & MEAN Stacks** and **DevOps tooling**
+- 🌱 Expanding my skills in **MERN & MEAN Stacks** and **DevOps tools**
 - 💻 Check out my [**Full Stack Realtime Chat App**](https://mern-hack-chat.onrender.com)
 - 👨‍💻 Browse all my projects at [github.com/Mohit-kumar123](https://github.com/Mohit-kumar123)
 - 📧 Reach me at **mohit15eu@gmail.com**

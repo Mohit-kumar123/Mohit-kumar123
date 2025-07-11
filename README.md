@@ -14,9 +14,10 @@
   <img src="https://komarev.com/ghpvc/?username=Mohit-kumar123&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 ## 💫 About Me
+
+<img align="right" alt="Coding" width="400" height="250px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 Currently building a fully functional **Email Tracker App**
 - 🌱 Expanding my skills in **MERN & MEAN Stacks** and **DevOps tools**

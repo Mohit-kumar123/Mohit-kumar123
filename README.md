@@ -22,6 +22,7 @@
 - 💻 Check out my [**Full Stack Realtime Chat App**](https://mern-hack-chat.onrender.com)
 - 👨‍💻 Browse all my projects at [github.com/Mohit-kumar123](https://github.com/Mohit-kumar123)
 - 📧 Reach me at **mohit15eu@gmail.com**
+- 🌐 View my [**Portfolio**](https://mohit-kumar123.github.io/Portfolio/)
 - 💬 Ask me about **challenging problems** and **full-stack development**
 - ⚡ Fun fact: **while(1).** - I never stop learning and coding!
 

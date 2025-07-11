@@ -6,9 +6,10 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kumar12/)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Mohit-kumar123/)
+  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/mohitkumar9989/)
+  [![Code360 - Naukri.com](https://img.shields.io/badge/Code360%20by%20Naukri-0A66C2?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/mohitkum)
   [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mohit_8800)
   [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mk0733922)
-  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/mohitkumar9989/)
   
   <img src="https://komarev.com/ghpvc/?username=Mohit-kumar123&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </div>
